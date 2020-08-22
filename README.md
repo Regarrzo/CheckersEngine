@@ -11,6 +11,8 @@ A C++ checkers engine implementing multithreaded negamax with alpha beta pruning
 There are no external dependencies, so building should be fairly straightforward.
 
 #### Linux
+Prebuilt x64 binaries exist in the release and debug folders.
+
 This project uses some experimental C++20 features, like the starship operator. You will need the latest GCC compiler to successfully compile.
 To build with the existing makefiles, simply navigate to either release or debug and run the make command.
 
