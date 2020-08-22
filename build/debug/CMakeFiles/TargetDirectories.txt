@@ -1,0 +1,3 @@
+/home/linus/Documents/c++/checkers/build/debug/CMakeFiles/rebuild_cache.dir
+/home/linus/Documents/c++/checkers/build/debug/CMakeFiles/edit_cache.dir
+/home/linus/Documents/c++/checkers/build/debug/CMakeFiles/checkers.dir

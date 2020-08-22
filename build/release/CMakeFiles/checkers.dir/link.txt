@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -lpthread -O3 -DNDEBUG CMakeFiles/checkers.dir/main.cpp.o CMakeFiles/checkers.dir/checkers.cpp.o CMakeFiles/checkers.dir/bitboard.cpp.o CMakeFiles/checkers.dir/pos.cpp.o CMakeFiles/checkers.dir/search.cpp.o CMakeFiles/checkers.dir/evaluate.cpp.o -o checkers 
