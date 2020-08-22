@@ -6,7 +6,7 @@
 #include <future>
 #include <thread>
 
-#include "extern/ctpl/ctpl_stl.h"
+#include "extern/CTPL/ctpl_stl.h"
 #include "search.hpp"
 #include "evaluate.hpp"
 #include "bitboard.hpp"

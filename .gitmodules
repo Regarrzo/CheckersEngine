@@ -1,0 +1,3 @@
+[submodule "extern/CTPL"]
+	path = extern/CTPL
+	url = https://github.com/vit-vit/CTPL

@@ -11,7 +11,6 @@
 #include "constants.hpp"
 #include "bitboard.hpp"
 #include "pos.hpp"
-#include "tree.hpp"
 
 using namespace checkers;
 
