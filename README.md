@@ -8,7 +8,7 @@ A C++ checkers engine implementing multithreaded negamax with alpha beta pruning
 - Time control
 
 ## Building
-There are no external dependencies, so building should be fairly straightforward.
+The only external dependency is included in the project as a submodule, so building should be fairly straightforward.
 
 #### Linux
 Prebuilt x64 binaries exist in the release and debug folders.
